@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+om @ git+https://github.com/anonym-om/om.git
+sentence-transformers
+tqdm
+numpy
+matplotlib
+nltk
+rdflib
+termcolor
+py-stringmatching
+scikit-learn
+jupyter
